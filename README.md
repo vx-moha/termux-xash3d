@@ -4,4 +4,4 @@
 
 # Installation
 
-**1 - Download Wine Hangover [Release]()
+**1 - Download Wine Hangover From [Releases]()**
