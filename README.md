@@ -4,4 +4,4 @@
 
 # Installation
 
-**To download Wine Hangover click here**
+**1 - Download Wine Hangover [Release]()
