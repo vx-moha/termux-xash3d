@@ -1,9 +1,7 @@
 # termux-wine-xashds
 
-> **With this new method you can open a server with wine hangover without any problems**
-
-> **You can open a server using xash3d old or new engine**
+> **This is a new way you can open a server using an emulator called "Wine Hangover" which works inside Termux application Using Only (Termux:X11)**
 
 # Installation
 
-- **Download Termux-w
+**To download Wine Hangover click here**
