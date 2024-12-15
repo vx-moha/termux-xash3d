@@ -5,7 +5,7 @@
 **- Interface**
 ![inq3erdiagram](https://raw.githubusercontent.com/vx-moha/termux-xash3d/refs/heads/main/Screenshot_20241215-043805_Termux.jpg)
 
-**- Screenshot From Termux:X11 (Wine Hangover 9.5)**
+**- Screenshot From Termux:X11 (Wine Hangover)**
 ![inq3erdiagram](https://raw.githubusercontent.com/vx-moha/termux-xash3d/refs/heads/main/Screenshot_20241215-044249_TermuxX11.jpg)
 
 # Installation
