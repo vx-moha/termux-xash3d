@@ -6,7 +6,7 @@
 ![Screenshot_20241215-043805_Termux](https://github.com/user-attachments/assets/b85a9b52-6716-4c06-af4d-fd7ea34e07e1)
 
 **- Screenshot From Termux:X11 (Wine Hangover)**
-![inq3erdiagram](https://raw.githubusercontent.com/vx-moha/termux-xash3d/refs/heads/main/Screenshot_20241215-044249_TermuxX11.jpg)
+![Screenshot_20241215-044249_TermuxX11](https://github.com/user-attachments/assets/df591c78-d483-4b8a-be3d-04af61392f99)
 
 # Installation
 
