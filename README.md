@@ -16,13 +16,17 @@
 
 **3 - Download [Xash Dedicated Server](https://github.com/vx-moha/xash3d-amxx/releases/download/v1.0/xash3d_amxx.zip)**
 
-**4 - Open Zarchiver And Extract Zip**
-> **NOTE : Make Sure After Extract Zip Must Be Path Like This: storage/emulated/0/download/wine**
+**4 - Open Zarchiver And Extract Zip File (termux-hangover)**
+> **NOTE : Make Sure After Extract Zip Must Be Path Like That: storage/emulated/0/download/wine**
 
 **5 - Open Termux And Put these codes**
 
 ```
 cd .. && cd /storage/emulated/0/download/wine && mv install.sh /data/data/com.termux/files/home && mv start.sh /data/data/com.termux/files/home && cd ~ && chmod +x install.sh && ./install.sh
-
 ```
-**6 - 
+**6 - After Installation Completed Exit From Termux And Open Again**
+
+**7 - Back To Zarchiver And Copy xash3d_amxx.zip To**
+> **storage/emulated/0/download/wine/sc**
+
+**7 - After Start Wine, Open Termux:X11 And Click To (My Computer/D:/wine)
