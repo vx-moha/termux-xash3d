@@ -30,4 +30,9 @@ cd .. && cd /storage/emulated/0/download/wine && mv install.sh /data/data/com.te
 **7 - Extract Zip File (xashds.zip), Then Put Folder In:**
 > **storage/emulated/0/download/wine**
 
-**7 - After Start Wine, Open Termux:X11 And Click To (My Computer/D:/wine)**
+**7 - After Start Wine, Open Termux:X11 And Click To:
+> **My Computer/D:/wine**
+
+**For Example :**
+
+
