@@ -27,27 +27,5 @@ cd .. && cd /storage/emulated/0/download/wine && cp install.sh /data/data/com.te
 ```
 **6 - After Installation Completed Exit From Termux And Open Again**
 
-**7 - Extract Zip File (xashds.zip), Then Put Folder In:**
-> **storage/emulated/0/download/wine**
 
-**7 - After Start Wine, Open Termux:X11 And Click To:**
-> **My Computer/D:/wine**
-
-**For Start Server :**
-
-**1 - Open My Computer And Then Click To (D:)**
-![Screenshot_20241215-192335_TermuxX11](https://github.com/user-attachments/assets/5e9b4242-1d90-4910-83eb-8083cd92ccc9)
-
-**2 - Then Open Wine Folder And Click To Xash Folder**
-![Screenshot_20241215-192351_TermuxX11](https://github.com/user-attachments/assets/6586e051-29a4-4f03-956e-7a58d9ca43bd)
-
-**3 - After Open Xash Folder, Click To xashds.bat**
-![Screenshot_20241215-193239_TermuxX11](https://github.com/user-attachments/assets/4627c98d-3ebc-47d7-ac84-351a73fbcee7)
-
-**4 - After Server Opened, Open CS1.6Client (New Engine), Type In Console 127.0.0.1:27015**
-
-![Screenshot_20241215-193636_Xash3D FWGS (Test)](https://github.com/user-attachments/assets/af1471d6-eb91-45ac-b071-7229c69f709f)
-
-**Enjoy Playing 👌**
-
-
+**7 - Start Wine With This Command > start-xashds-wine And Then Open Termux:X11 You will see it works without any problem 👌**
