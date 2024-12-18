@@ -14,7 +14,7 @@
 
 **2 - Download Wine Hangover From [Releases](https://github.com/vx-moha/termux-xash3d/releases/tag/9.5)**
 
-**3 - Download [Xash Dedicated Server](https://github.com/vx-moha/xash3d-amxx/releases/download/v1.0/xash3d_amxx.zip)**
+**3 - Download [Xash Dedicated Server](https://github.com/vx-moha/xash3d-amxx/releases/download/v1.0/xashds.zip)**
 
 **4 - Open Zarchiver And Extract Zip File (termux-hangover.zip)**
 
