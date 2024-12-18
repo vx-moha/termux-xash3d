@@ -28,4 +28,8 @@ cd .. && cd /storage/emulated/0/download/wine && cp install.sh /data/data/com.te
 **6 - After Installation Completed Exit From Termux And Open Again**
 
 
-**7 - Start Wine With This Command > start-xashds-wine And Then Open Termux:X11 You will see it works without any problem 👌**
+**7 - Start Wine With This Command In Termux**
+```
+start-xashds-wine
+```
+**8 - Open Termux:X11, Then You will see it works without any problem 👌**
