@@ -4,7 +4,7 @@
 
 # Installation
 
-**1 - Download Last Updated [Termux Xash3D](https://f-droid.org/repo/com.termux_1020.apk)**
+**1 - Download Last Updated [Termux Xash3D](https://github.com/vx-moha/termux-xash3d/releases)**
 
 **2 - Download [Xash3D FWGS Launcher](https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-android.apk)**
 
