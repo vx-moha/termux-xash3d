@@ -1,6 +1,6 @@
 # termux-wine-xashds
 
-> **This is a new way you can open a server using an emulator called "Wine Hangover" which works inside Termux application Using Only (Termux:X11)**
+> **This is a new way you can open a server using an windows called "Termux Xash3D" which works inside Termux application Using With VNC Server**
 
 **- Interface**
 ![Screenshot_20241215-043805_Termux](https://github.com/user-attachments/assets/b85a9b52-6716-4c06-af4d-fd7ea34e07e1)
@@ -10,7 +10,7 @@
 
 # Installation
 
-**1 - Install [Termux](https://f-droid.org/repo/com.termux_1020.apk), [Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk)**
+**1 - Install TX V0.3.1 In[Release](https://f-droid.org/repo/com.termux_1020.apk)
 
 **2 - Download Wine Hangover From [Releases](https://github.com/vx-moha/termux-xash3d/releases/tag/9.5)**
 
