@@ -12,13 +12,12 @@
 
 **1 - Download Last Updated [Termux Xash3D](https://f-droid.org/repo/com.termux_1020.apk)**
 
-**2 - Download Wine Hangover From [Releases](https://github.com/vx-moha/termux-xash3d/releases/tag/9.5)**
+**2 - Download [Xash3D FWGS Launcher](https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-android.apk)**
 
-**3 - Download [Xash Dedicated Server](https://github.com/vx-moha/xash3d-amxx/releases/download/v1.0/xashds.zip)**
+**3 - Open Zarchiver And Extract Zip File**
 
-**4 - Open Zarchiver And Extract Zip File (termux-hangover.zip)**
-
-> **NOTE : Make Sure After Extract Zip Must Be Path Like That: /storage/emulated/0/Download/Termux32_64**
+> **NOTE : Make Sure After Extract Zip Must Be Path Like That:
+> /storage/emulated/0/Download/Termux32_64**
 
 **5 - Open Termux And Put these codes**
 
