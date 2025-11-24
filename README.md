@@ -1,8 +1,6 @@
-# termux-wine-xashds
+# Termux Xash3D
 
 > **This is a new way you can open a server using an windows called "Termux Xash3D" which works inside Termux application Using With VNC Server**
-
-https://ibb.co/F46TGXYd
 
 # Installation
 
