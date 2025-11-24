@@ -4,7 +4,7 @@
 
 # Installation
 
-**1 - Download Last Updated [Termux Xash3D](https://github.com/vx-moha/termux-xash3d/releases)**
+**1 - Download [Termux Xash3D](https://github.com/vx-moha/termux-xash3d/releases)**
 
 **2 - Download [Xash3D FWGS Launcher](https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-android.apk)**
 
@@ -23,6 +23,6 @@ termux-setup-storage && bash /storage/emulated/0/Download/Termux32_64/bin/setup
 
 **7 - Start And Then Choose Server Version To Create Also For Maps & Maxplayers**
 
-**8 - After Running Server, Make New Session In Termux And Choose ``Reconnect VNC`` To Show Console Server In Applications**
+**8 - After Running Server, Make New Session In Termux And Choose ``Reconnect VNC`` To Show Console Server In ``VNC Viewer``**
 
 > **That's It Server Will Running Without Any Problem**
