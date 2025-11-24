@@ -4,7 +4,7 @@
 
 # Installation & Tutorial
 
-> [Tutorial Video](https://youtu.be/F_qkWD1RY9c?si=4oTD_P_A1MnxPM72)
+## [Tutorial Video](https://youtu.be/F_qkWD1RY9c?si=4oTD_P_A1MnxPM72)
 
 **1 - Download [Termux Xash3D](https://github.com/vx-moha/termux-xash3d/releases)**
 
