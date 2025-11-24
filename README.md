@@ -30,3 +30,5 @@ termux-setup-storage && bash /storage/emulated/0/Download/Termux32_64/bin/setup
 **7 - Start And Then Choose Server Version To Create Also For Maps & Maxplayers**
 
 **8 - After Running Server, Make New Session In Termux And Choose ``Reconnect VNC`` To Show Console Server In Applications**
+
+> **That's It Server Will Running Without Any Problem**
