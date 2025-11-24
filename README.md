@@ -18,18 +18,16 @@
 
 **4 - Open Zarchiver And Extract Zip File (termux-hangover.zip)**
 
-> **NOTE : Make Sure After Extract Zip Must Be Path Like That: storage/emulated/0/download/wine**
+> **NOTE : Make Sure After Extract Zip Must Be Path Like That: /storage/emulated/0/Download/Termux32_64**
 
 **5 - Open Termux And Put these codes**
 
 ```
-cd .. && cd /storage/emulated/0/download/wine && cp install.sh /data/data/com.termux/files/home && cp start.sh /data/data/com.termux/files/home && cd ~ && chmod +x install.sh && ./install.sh
+termux-setup-storage && bash /storage/emulated/0/Download/Termux32_64/bin/setup
 ```
-**6 - After Installation Completed Exit From Termux And Open Again**
+**6 - After Installation Completed Restart Termux And Open Again**
 
 
-**7 - Start Wine With This Command In Termux**
-```
-start-wine-xashds
-```
-**8 - Open Termux:X11, Then You will see it works without any problem 👌**
+**7 - Start And Then Choose Server Version To Create Also For Maps & Maxplayers**
+
+**8 - After Running Server, Make New Session In Termux And Choose ``Reconnect VNC`` To Show Console Server In Applications**
