@@ -10,7 +10,7 @@
 
 # Installation
 
-**1 - Install TX V0.3.1 In[Release](https://f-droid.org/repo/com.termux_1020.apk)
+**1 - Download Last Updated [Termux Xash3D](https://f-droid.org/repo/com.termux_1020.apk)**
 
 **2 - Download Wine Hangover From [Releases](https://github.com/vx-moha/termux-xash3d/releases/tag/9.5)**
 
