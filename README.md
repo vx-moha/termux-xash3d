@@ -6,6 +6,10 @@
 
 ## [Tutorial Video](https://youtu.be/F_qkWD1RY9c?si=4oTD_P_A1MnxPM72)
 
+**Or**
+
+## Tutorial Reading
+
 **1 - Download [Termux Xash3D](https://github.com/vx-moha/termux-xash3d/releases)**
 
 **2 - Download [Xash3D FWGS Launcher](https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-android.apk)**
