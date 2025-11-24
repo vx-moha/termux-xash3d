@@ -16,8 +16,8 @@
 
 **3 - Open Zarchiver And Extract Zip File**
 
-> **NOTE : Make Sure After Extract Zip Must Be Path Like That:
-> /storage/emulated/0/Download/Termux32_64**
+> **NOTE : Make Sure After Extract Zip Must Be Path Like That:**
+``/storage/emulated/0/Download/Termux32_64``
 
 **5 - Open Termux And Put these codes**
 
