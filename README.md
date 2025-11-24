@@ -4,9 +4,7 @@
 
 # Installation & Tutorial
 
-## [Tutorial Video](https://youtu.be/F_qkWD1RY9c?si=4oTD_P_A1MnxPM72)
-
-### Or
+### [Tutorial Video](https://youtu.be/F_qkWD1RY9c?si=4oTD_P_A1MnxPM72)
 
 ## Tutorial Reading
 
