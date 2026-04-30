@@ -1,6 +1,6 @@
 # Termux Xash3D
 
-> **This is a new way you can open a server using an ``Windows`` which works inside Termux application using with ``VNC Viewer``**
+> **This is a new way you can open a server using an ``Windows`` which works inside Termux application using with ``VNC Viewer Or Termux X11``**
 
 # Installation & Tutorial
 
